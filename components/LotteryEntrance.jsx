@@ -124,6 +124,7 @@ export default function LotteryEntrance() {
             ) : (
                 <p>No Raffle Address Detected.</p>
             )}
+            <p>Powered by: MonsterPi13</p>
         </div>
     )
 }
